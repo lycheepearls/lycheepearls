@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lycheepearls
+- 👀 New Bubble Tea kid on the block
+- 🌱 We don't just make flavours, we create epic flavour recommendations API's
+- 💞️ I’m looking to collaborate on Bubble Tea projects
+- 📫 How to reach me: info@epic.bubbletea
